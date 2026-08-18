@@ -1,0 +1,9 @@
+{
+  "name": "ai-traders-website",
+  "version": "1.0.0",
+  "description": "AI Traders website — static site + Vercel serverless contact form API",
+  "private": true,
+  "dependencies": {
+    "nodemailer": "^9.0.5"
+  }
+}
